@@ -7,7 +7,6 @@ hihi
 고
 릴
 라
-다
 hi
 as
 dfa
@@ -22,6 +21,7 @@ s
 ds
 df
 asfd
+<<<<<<< HEAD
 hi
 dfdsfdlfjsdfjsdfsd
 fd
@@ -40,14 +40,14 @@ d
 
 f
 d
-df
+dfasdfasdfasdfsaf
 ds
 f
-dsf
+dsfasdfasdfd
 d
 f
 d
-fdsflsdjfkdjflkdsjkfjlkjflksdjfkljfd
+asdfasdfasdfasdf
 f
 b
 b
@@ -58,4 +58,3 @@ v
 vcx
 vx
 v
-git conflict!
