@@ -7,7 +7,6 @@ hihi
 고
 릴
 라
-다
 hi
 as
 dfa
@@ -22,6 +21,7 @@ s
 ds
 df
 asfd
+<<<<<<< HEAD
 hi
 dfdsfdlfjsdfjsdfsd
 fd
@@ -58,3 +58,4 @@ v
 vcx
 vx
 v
+
