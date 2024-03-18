@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 hihi
 니
 나
@@ -23,7 +22,6 @@ s
 ds
 df
 asfd
-=======
 hi
 dfdsfdlfjsdfjsdfsd
 fd
@@ -60,4 +58,3 @@ v
 vcx
 vx
 v
->>>>>>> sm/test01
